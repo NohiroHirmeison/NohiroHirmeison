@@ -18,14 +18,12 @@ I'm Nohiro, an enthusiastic learner with a passion for cybersecurity. Here you'l
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NohiroHirmeison&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=dark)
               
 ## Find Me Online
-- **[LinkedIn](https://www.linkedin.com/in/nohirohirmeison**
+- **[LinkedIn](https://www.linkedin.com/in/nohirohirmeison)**
 
 ## Contact Me
 Feel free to reach out via email: nohiro.hirmeison@gmail.com
 
 ---
-
-**Let's hack the world ethically and responsibly!** 🧠💥
 
 Regards,
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
