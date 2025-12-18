@@ -14,13 +14,13 @@ I'm Nohiro, an enthusiastic learner with a passion for cybersecurity. Here you'l
 ## Little Projects
 - **[Caesar Cipher Cryptography](https://cryptography-nohiro.glitch.me/)**: My first project as a cybersecurity engineering student in Politeknik Negeri Batam
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NohiroNayottama&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=dark)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NohiroHirmeison&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=dark)
               
-## 🌐 Find Me Online
+## Find Me Online
 - **[LinkedIn](https://www.linkedin.com/in/nohirohirmeison**
 
-## 📧 Contact Me
+## Contact Me
 Feel free to reach out via email: nohiro.hirmeison@gmail.com
 
 ---
